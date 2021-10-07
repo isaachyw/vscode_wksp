@@ -1,0 +1,19 @@
+\subsection{用户代码片段用途}
+
+\begin{frame}
+    \begin{columns}
+    \column{.5\textwidth}
+    \begin{figure}[htbp]
+         \centering
+         \includegraphics{}
+         \caption{Elliptic Paraboloid}
+         \end{figure}
+    \column{.3\textwidth}    
+    \begin{itemize}
+        \item 代码补全（定义于vscode插件）
+        \item 可查看C:\Users<UserName>.vscode\extensions\ms-code.-\snippets.
+        \item 很多常用代码捆绑在一起或某些补全插件中不支持
+        \item 自定义代码补全
+    \end{itemize}
+    \end{columns}
+\end{frame}
