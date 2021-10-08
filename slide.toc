@@ -2,9 +2,9 @@
 \beamer@sectionintoc {2}{JSON 文件}{6}{0}{2}
 \beamer@sectionintoc {3}{用户代码片段 User snippets}{9}{0}{3}
 \beamer@subsectionintoc {3}{1}{用户代码片段用途}{11}{0}{3}
-\beamer@subsectionintoc {3}{2}{进入用户代码片段}{13}{0}{3}
-\beamer@subsectionintoc {3}{3}{用户代码框架}{15}{0}{3}
-\beamer@sectionintoc {4}{用户代码片段示例}{19}{0}{4}
-\beamer@sectionintoc {5}{vscode多光标特性}{23}{0}{5}
-\beamer@subsectionintoc {5}{1}{多光标用途}{24}{0}{5}
-\beamer@subsectionintoc {5}{2}{添加多光标}{26}{0}{5}
+\beamer@subsectionintoc {3}{2}{进入用户代码片段}{14}{0}{3}
+\beamer@subsectionintoc {3}{3}{用户代码框架}{16}{0}{3}
+\beamer@sectionintoc {4}{用户代码片段示例}{20}{0}{4}
+\beamer@sectionintoc {5}{vscode多光标特性}{24}{0}{5}
+\beamer@subsectionintoc {5}{1}{多光标用途}{25}{0}{5}
+\beamer@subsectionintoc {5}{2}{添加多光标}{27}{0}{5}
