@@ -1,3 +1,31 @@
-# QUT-Beamer-Theme
-LaTeX beamer theme for Queensland University of Technology.  This template mostly comes from Jiayi Weng, Trinkle23897. 
-The original GitHub repo is https://github.com/Trinkle23897/THU-Beamer-Theme.
+# Visual Studio Code Workshop文档
+## prerequisite
+### part 1
+
+安装: vscode
+
+![](D:\sjtu\sstia\vscode_wksp\pic\in1.jpg)
+
+![](D:\sjtu\sstia\vscode_wksp\pic\in2.jpg)
+
+插件：Chinese
+
+![](D:\sjtu\sstia\vscode_wksp\pic\ch1.jpg)
+
+### part 2
+
+安装：
+
+插件：
+
+### part 3
+
+安装：
+
+插件：
+
+## 简要教程
+
+### part 1
+
+见 slide.pdf
