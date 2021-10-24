@@ -20,9 +20,9 @@
 
 ### part 3
 
-安装：
+安装：Git, FiraCode
 
-插件：
+插件：Bracket Pair Colorizer 2, Rainbow Indent, WSL, Git Lens, Git Graph, etc ...
 
 ## 简要教程
 
